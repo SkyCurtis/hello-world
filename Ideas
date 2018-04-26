@@ -1,0 +1,5 @@
+# Ideas
+
+## SF2D:
+  # Players can shot laser beams. When beam touches other player, shield appears and shield gauge decreases
+  # --> When shield gauge = 0, other player loses a life if beam touches again
